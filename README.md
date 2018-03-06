@@ -1,4 +1,4 @@
-![Welcome to Convenient Delivery](convenient_delivery_banner.png)
+![Welcome to Convenient Delivery](images/convenient_delivery_github_banner.png)
 
 Where delivery drivers everywhere can get support on the road.
 

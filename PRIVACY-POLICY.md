@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Convenient Delivery takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
+Convenient Delivery takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
@@ -37,4 +37,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to [Operators@Gmail.Com](operators.dba[at]gmail.com).
+For any questions or concerns regarding the privacy policy, please send us an email to [Operators[dot]DBA[at]Gmail.Com](operators.dba[at]gmail.com).
