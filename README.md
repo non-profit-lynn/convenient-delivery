@@ -2,22 +2,28 @@
 
 Where delivery drivers everywhere can get support on the road.
 
-### Support or Contact
+# Having some issues?
 
-If you are having issues with your app, please check out our [FAQ](FAQ.md) or [contact support](operators.dba[at]gmail.com) and we’ll help you sort it out.
+## Frequently Asked Questions (FAQ)
+If you have issues with your Convenient Delivery app, then please check out our [FAQ](FAQ.md) for a quick solution.
 
-If you can not use any of the solutions in our [FAQ](FAQ.md) you should [check our open issues](https://github.com/non-profit-lynn/convenient-delivery/issues) or [create a new issue](https://github.com/non-profit-lynn/convenient-delivery/issues/new).
+## Issue Tracking
+If you can not use any of the solutions in our [FAQ](FAQ.md), then you should [check our open issues](https://github.com/non-profit-lynn/convenient-delivery/issues) or [create a new issue](https://github.com/non-profit-lynn/convenient-delivery/issues/new).
 
-### Contributing
-<!-- https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BAS4836NE4FA -->
-Would you like to tip the Drivers who made this app possible? [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](4BAS4836NE4FA)
+## Contact Us
+Finally, if you would like more direct communication to help with a solution [contact support here](operators.dba[at]gmail.com) and we’ll sort it out.
+
+# Contributing #
+Would you like to tip the Delivery Drivers who made this app possible?
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BAS4836NE4FA)
 
 Whenever you send pull requests to this repository that are accepted, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in this Markdown file and others.
 
-### Follow us on:
+# Social Media:
 
-- [![Facebook Page](images/facebook.png)  Facebook](https://www.facebook.com/convenient.delivery)
+- [![Facebook Page](images/facebook.png)  Like our Facebook Page](https://www.facebook.com/convenient.delivery)
 
-- [![Instagram Profile](images/instagram.png)  Instagram](https://www.instagram.com/convenient_delivery)
+- [![Instagram Profile](images/instagram.png)  Follow us on Instagram](https://www.instagram.com/convenient_delivery)
 
-- [![Twitter Profile](images/twitter.png)  Twitter](https://twitter.com/Conven_Delivery)
+- [![Twitter Profile](images/twitter.png)  Follow us on Twitter](https://twitter.com/Conven_Delivery)
