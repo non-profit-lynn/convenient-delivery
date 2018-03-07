@@ -3,7 +3,7 @@
 Where delivery drivers everywhere can get support on the road.
 
 ### Social Media
-Follow us on  [![Facebook Page](images/facebook.png)  Facebook](https://www.facebook.com/convenient.delivery),  [![Instagram Profile](images/instagram.png)  Instragram](https://www.instagram.com/convenient_delivery) or  [![twitter Profile](images/twitter.png)  Twitter](https://twitter.com/Conven_Delivery)
+Follow us on  [![Facebook Page](images/facebook.png)  Facebook](https://www.facebook.com/convenient.delivery),  [![Instagram Profile](images/instagram.png)  Instagram](https://www.instagram.com/convenient_delivery) or  [![twitter Profile](images/twitter.png)  Twitter](https://twitter.com/Conven_Delivery)
 
 ### Support or Contact
 
